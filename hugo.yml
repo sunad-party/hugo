@@ -1,0 +1,7 @@
+baseURL: 'https://hugo.sunad.party/'
+languageCode: en-us
+title: My New Hugo Site
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
